@@ -1,5 +1,7 @@
 # Indoor Mapping SaaS
 
+[![wakatime](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a/project/7eec899f-f41d-4033-9116-13f7a0771174.svg)](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a/project/7eec899f-f41d-4033-9116-13f7a0771174)
+
 ## Vision
 
 Créer des plans indoor **from scratch** (sans dépendance DWG), afin de générer des fichiers **IMDF compatibles Microsoft Places**.
