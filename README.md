@@ -4,7 +4,7 @@
 
 ## Vision
 
-Créer des plans indoor **from scratch** (sans dépendance DWG), afin de générer des fichiers **IMDF compatibles Microsoft Places**.
+Créer des plans indoor from scratch (sans dépendance DWG), afin de générer des fichiers **IMDF compatibles Microsoft Places**.
 
 L’objectif est de fournir un outil simple, fiable et maîtrisé pour :
 - dessiner des bâtiments
@@ -15,3 +15,7 @@ L’objectif est de fournir un outil simple, fiable et maîtrisé pour :
 | Phase | Nom               | Commentaire |
 |-------|-------------------|-------------|
 | 1     | Etude & Réflexion | Retro-ingénerie DWG, IMDF et GeoJSON |
+
+## Documentation
+
+Vous pouvez consulter librement la documentation du projet dans [./docs](./docs).
